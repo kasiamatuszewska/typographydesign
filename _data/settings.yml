@@ -3,8 +3,8 @@ description: A web site about typography design.
 footer_text: Copyright 2021 Katarzyna Matuszewska
 header_feature_image: ../uploads/natalia-y-oxl_kbnqxga-unsplash.jpg
 header_text: ThenVsNow
-header_text_color: "#411aaf"
-bannerheight: 20vmax
+header_text_color: "#ffffff"
+bannerheight: 100vh
 navbarheight: 55px
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
