@@ -2,7 +2,7 @@
 layout: post
 title: CAN CLOTHES SPEAK FOR THEMSELVES?
 date: 2021-10-01T00:33:00.514Z
-image: ../uploads/projekt-bez-tytułu.jpg
+image: ../uploads/fashion-statements_websitebanner_1.webp
 title_color: "#ffffff"
 comments: false
 ---
