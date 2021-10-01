@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luxurious Fashion Brands
+title: LUXURIOUS TYPOGRAPHY IN FASHION BRANDS
 date: 2021-09-28T17:20:53.931Z
 image: ../uploads/article-photo.png
 title_color: "#ffffff"
