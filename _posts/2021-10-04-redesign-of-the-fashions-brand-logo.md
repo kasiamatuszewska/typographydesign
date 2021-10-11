@@ -10,11 +10,11 @@ The process of rebranding a brand is natural after some period of time has passe
 
 Through many years the brands new to adapt to the new outgoing trends and design. However, what’s interesting is the fact that in the past many well-known brands used completely different designs. Typographic logos are one of the most important things while creating a brand. The logo can literally speak for itself. The message that is sent through the logo design can either implicate whether the brand is luxurious, classy, chic, or maybe cheap. 
 
-**LUXURIOUS BRANDS**
+### **LUXURIOUS BRANDS**
 
 One thing that can be recently noticed on the market is that most of the luxurious brands such as Burberry or Saint Lauren have recently changed their brand’s logos. One of the changes was the modification made to a font-surprisingly both companies decided to go for almost the identical style choosing the same fonts. I am going to explore this idea based on the example of Burberry. 
 
-**BURBERRY**
+### **BURBERRY**
 
 The old Burberry word mark hadn’t changed much since its “equestrian knight” was registered more than 100 years ago, therefore it felt like the perfect time for changes. The first logo that was introcuded in 1901 lasted for almost 70 years.
 
@@ -24,7 +24,7 @@ The old Burberry word mark hadn’t changed much since its “equestrian knigh
 
 Then they decided to modarate it a bit and in 1968 the deisgners presented a new, more modern version of the previous logo. The major change happended in the use of colors and the fact that under the name of fashion house the 'Of London ' phrase is added.
 
-\    1968-1999
+  1968-1999
 
 ![](../uploads/burberrys-logo-1968-1999-700x394.png)
 
@@ -36,7 +36,7 @@ The last stage is the new logo that was introduced in 2018 -so quite recently , 
 
 ![](../uploads/burberry-logo-700x394.png)
 
-**OTHER BRANDS**
+### **OTHER BRANDS**
 
 By this change Burberry infecund many others luxurious and pricey brands that have also opted for the all-caps sans-serif look, such as Céline, Rimowa, Diane von Furstenberg, Balenciaga, and Saint Laurent, as well as Saville’s own refresh of Calvin Klein in 2017. 
 
