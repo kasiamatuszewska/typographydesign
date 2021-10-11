@@ -6,7 +6,9 @@ image: ../uploads/13e680e9a7508f7f604818045666aa73.jpg
 title_color: "#ffffff"
 comments: true
 ---
-Logos that are produced by the brands are one of the most important components that define the story and the perception of a brand.  The designers have a very hard task in front of them to design a timeless, elegant logo that will associate the brand with the appropriate message.  That’s when the typography design is needed, to make the specific reaction on a customer. In this article I will explore the luxurious fashion brands, such as: Tiffany&Co, Prada, Louis Vuitton, Jimmy Choo and Burberry. According to Bill Gardener who is a designer: Luxury isn’t connoted with fussy extras; no-nonsense boldness is the rule. “Spartan solutions have been rampant in all areas of design,” Gardner says.
+Logos that are produced by the brands are one of the most important components that define the story and the perception of a brand.  The designers have a very hard task in front of them to design a timeless, elegant logo that will associate the brand with the appropriate message.  That’s when the typography design is needed, to make the specific reaction on a customer. In this article I will explore the luxurious fashion brands, such as: Tiffany&Co, Prada, Louis Vuitton, Jimmy Choo and Burberry. 
+
+According to Bill Gardener who is a designer: Luxury isn’t connoted with fussy extras; no-nonsense boldness is the rule. “Spartan solutions have been rampant in all areas of design,” Gardner says.
 
 ### **TIFFANY&CO**
 
