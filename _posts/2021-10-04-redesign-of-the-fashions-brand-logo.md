@@ -4,7 +4,7 @@ title: REDESIGN OF THE FASHION'S BRAND LOGO
 date: 2021-10-04T10:17:40.537Z
 image: ../uploads/burberry-logo-redesign-hed-page-2018.jpg.webp
 title_color: "#ffffff"
-comments: false
+comments: true
 ---
 The process of rebranding a brand is natural after some period of time has passed. We need to do it to keep the brand within the trends and preferences of the customers. The main thing that is changing in this process is the design of the brand, such as logo or for instance the Internet website. In the previous article we were introducing some general rules and characteristics for the fashion brands that are associated with luxury; today we are going to explore the rebranding process together with the changes that occurred in the logos.
 
