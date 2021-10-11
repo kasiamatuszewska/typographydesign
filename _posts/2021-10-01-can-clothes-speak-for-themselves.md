@@ -4,7 +4,7 @@ title: CAN CLOTHES SPEAK FOR THEMSELVES?
 date: 2021-10-01T00:33:00.514Z
 image: ../uploads/fashion-statements_websitebanner_1.webp
 title_color: "#ffffff"
-comments: false
+comments: true
 ---
 As it turns out, typography is a huge part of fashion industry. And I don’t mean the importance of brand’s label or logo.  Some of the best-known fashion designers took the idea of sending a message through fashion on a completely different level with the use of typography. In this article, we will focus on the interpretation of messages used by *Viktor&Rolf*, as well as the analysis of chosen fonts, colours, and design in general. This unique idea of putting words on the haute couture collection of clothes was presented by *Viktor&Rolf* in one of their fashion shows back in 2019.
 
