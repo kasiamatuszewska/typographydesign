@@ -4,7 +4,7 @@ title: TYPOGRAPHY IN VOGUE
 date: 2021-10-04T10:43:19.088Z
 image: ../uploads/projekt-bez-tytułu-2.jpg
 title_color: "#ffffff"
-comments: false
+comments: true
 ---
 As the perfect example of successful usage of typography is Vogue magazine which is found one of the most influential and luxurious fashion magazines in the world. The iconic font that the magazine is keep using till this das was presented by the designers back in 1945.  Before this presentation of one consistent cover font, the magazine used many decorative fonts that fitted the idea of photo cover.  In today’s world it’s almost impossible to visualize Vogue magazine without their font. I am pretty sure that almost everyone is able to recognize the iconic front font.
 
