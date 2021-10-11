@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LUXURIOUS TYPOGRAPHY IN FASHION BRANDS
+title: Typographic trends in luxurious fashion brands.
 date: 2021-09-28T17:20:53.931Z
 image: ../uploads/13e680e9a7508f7f604818045666aa73.jpg
 title_color: "#ffffff"
