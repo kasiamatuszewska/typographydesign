@@ -2,7 +2,7 @@
 layout: post
 title: REDESIGN OF THE FASHION'S BRAND LOGO
 date: 2021-10-04T10:17:40.537Z
-image: ../uploads/burberry-logo-history-700x616.jpg
+image: ../uploads/burberry-logo-redesign-hed-page-2018.jpg.webp
 title_color: "#ffffff"
 comments: false
 ---
@@ -10,13 +10,9 @@ The process of rebranding a brand is natural after some period of time has passe
 
 Through many years the brands new to adapt to the new outgoing trends and design. However, what’s interesting is the fact that in the past many well-known brands used completely different designs. Typographic logos are one of the most important things while creating a brand. The logo can literally speak for itself. The message that is sent through the logo design can either implicate whether the brand is luxurious, classy, chic, or maybe cheap. 
 
- 
-
 **LUXURIOUS BRANDS**
 
-One thing that can be recently noticed on the market is that most of the luxurious brands such as Burberry or Saint Lauren have recently changed their brand’s logos. One of the changes was the modification made to a font-surprisingly both companies decided to go for almost the identical style choosing the same fonts.
-
- 
+One thing that can be recently noticed on the market is that most of the luxurious brands such as Burberry or Saint Lauren have recently changed their brand’s logos. One of the changes was the modification made to a font-surprisingly both companies decided to go for almost the identical style choosing the same fonts. I am going to explore this idea based on the example of Burberry. 
 
 **BURBERRY**
 
@@ -39,8 +35,6 @@ Another redeisgn happened in 1999 when the desgners decided to give some balance
 The last stage is the new logo that was introduced in 2018 -so quite recently , and is till today-is the official logo of the fashion house. Its has a bolder look with a geometric sans-serif treatment. It’s definitively louder than the previous one, which gives it more powerful look than before. It was created by graphic designer Peter Saville, famous for his Factory Records album covers in the 1980s.
 
 ![](../uploads/burberry-logo-700x394.png)
-
- 
 
 **OTHER BRANDS**
 
