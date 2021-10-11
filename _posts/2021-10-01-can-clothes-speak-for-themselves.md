@@ -10,7 +10,7 @@ As it turns out, typography is a huge part of fashion industry. And I don’t me
 
 The bold statements and the highest quality design made them one of the best-known fashions shows ever.  Let’s not however forget that if it wasn’t for the snarky lines used on their designs, the show probably would not be that memorable.
 
-**THE SNARKY LINES ON THE DESIGNS**
+### **THE SNARKY LINES ON THE DESIGNS**
 
 All the lines were slogans or inspired by Instagram-popular captions that reflect today’s world. First and a very important characteristic is the choice of these slogans. All of them are sarcastic, very casual and related to the trends from gen-z generation. However, that’s not all of it. Another important factor is the choice of typographic design of these slogans. Most of them are made of some very bold colours, such as red, green, blue. The statement itself is rather big and all the letters are in capital blocks. It automatically focuses the attention of the observer not on the deign but on the written in the front statement.
 
@@ -28,6 +28,6 @@ However, the fashion designers said themselves that they do not force anyone to 
 
 ![](../uploads/_vie0183.jpg)
 
-**THE POWER OF TYPOGRAPHY**
+### **THE POWER OF TYPOGRAPHY**
 
 That’s when we can talk about the power of typography in its finest form. Thanks to the use of bold capital letters, colours, and huge size of statements the messages sent by the designers are strong and clear. Without one of these components the message would not be that powerful. Therefore, all of these 3 features are very important while talking about the power of typography and answering the question-in this case clothes can definitely speak for themselves.
