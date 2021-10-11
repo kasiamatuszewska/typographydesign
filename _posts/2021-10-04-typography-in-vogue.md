@@ -8,19 +8,13 @@ comments: false
 ---
 As the perfect example of successful usage of typography is Vogue magazine which is found one of the most influential and luxurious fashion magazines in the world. The iconic font that the magazine is keep using till this das was presented by the designers back in 1945.  Before this presentation of one consistent cover font, the magazine used many decorative fonts that fitted the idea of photo cover.  In today’s world it’s almost impossible to visualize Vogue magazine without their font. I am pretty sure that almost everyone is able to recognize the iconic front font.
 
- 
-
-**THE CHANGES**
+## **THE CHANGES**
 
 Even after agreeing to use one font only on their covers, the magazine still changes the colors of the used font making it more suitable for the front cover photoshoot. Even though the colors vary from issue to issue, in general they picked from one color pallet which makes them repetitive from time to time.
 
- 
-
-**FONTS IN VOGUE**
+### **FONTS IN VOGUE**
 
 The main font style that is used in every single Vogue magazine is ‘Didot’. We can see it on every single cover page as it used for the iconic ‘VOGUE’ logo. Didone fonts were developed by Firmin Didot, Giambattista Bodoni and Justus Erich Walbaum, whose iconic typefaces, Bodoni, Didot, and Walbaum, remain in use today.
-
-
 
 ![](../uploads/vogue-logo-1536x864.png)
 
