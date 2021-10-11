@@ -2,7 +2,7 @@
 layout: post
 title: REDESIGN OF THE FASHION'S BRAND LOGO
 date: 2021-10-04T10:17:40.537Z
-image: ../uploads/burberry-logo-history-700x616.jpg
+image: ../uploads/burberry-logo-redesign-hed-page-2018.jpg.webp
 title_color: "#ffffff"
 comments: false
 ---
