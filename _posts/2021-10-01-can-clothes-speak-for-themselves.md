@@ -22,7 +22,7 @@ In this case we can easily say that the words stole the show. All the assorted t
 
 ![](../uploads/viktor-rolf-couture-paris-dresses-slogans_dezeen_2364_col_11-852x1278.jpg)
 
-**OUR OWN INTERPRETATION**
+### **OUR OWN INTERPRETATION**
 
 However, the fashion designers said themselves that they do not force anyone to think in a certain way but rather give the consumers topics to think about without forcing any specific perspective. On the other hand, we can see these huge, bold-coloured statements which even though officially do not implement any meaning, they still influence one’s perception of the answer.
 
