@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redesign of logo.
+title: Redesign of a logo.
 date: 2021-10-04T10:17:40.537Z
 image: ../uploads/burberry-logo-redesign-hed-page-2018.jpg.webp
 title_color: "#ffffff"
