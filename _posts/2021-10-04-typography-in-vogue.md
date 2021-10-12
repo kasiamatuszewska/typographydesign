@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Typography in fashion magazine.
+title: Typography in a fashion magazine.
 date: 2021-10-04T10:43:19.088Z
 image: ../uploads/projekt-bez-tytułu-2.jpg
 title_color: "#ffffff"
