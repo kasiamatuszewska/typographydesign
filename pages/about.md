@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: ABOUT ME
+title: ABOUT WEBSITE
 image: ../uploads/michael-lee-5z9bgfrzlle-unsplash.jpg
 subtitle: All you need to know.
 permalink: /about/
