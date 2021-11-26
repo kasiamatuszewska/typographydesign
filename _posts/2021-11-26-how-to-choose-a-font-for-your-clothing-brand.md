@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to choose a font for your clothing brand?
-date: 2021-11-26T12:30:01.485Z
+date: 2021-11-02T12:30:00.000Z
 image: ../uploads/bhwsdiw.jpg
 title_color: "#ffffff"
 comments: false
