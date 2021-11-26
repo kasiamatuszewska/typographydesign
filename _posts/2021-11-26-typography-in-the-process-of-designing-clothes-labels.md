@@ -2,6 +2,7 @@
 layout: post
 title: Typography in the process of designing  clothes' labels.
 date: 2021-11-26T12:26:40.622Z
+image: ../uploads/blog-sketch-design-labels2bg.jpg
 title_color: "#ffffff"
 comments: false
 ---
