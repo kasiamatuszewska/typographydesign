@@ -7,7 +7,7 @@ header_text_color: "#cb0076"
 bannerheight: 100vh
 navbarheight: 55px
 logo: ../uploads/fashion.jpg
-favicon: /uploads/favicon.ico
+favicon: ""
 gridlayout: true
 fixednavbar: false
 upzoom: true
