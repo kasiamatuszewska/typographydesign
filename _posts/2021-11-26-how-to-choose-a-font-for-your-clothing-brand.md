@@ -10,43 +10,29 @@ The varieties and styles of fonts can be very overwhelming. Especially while cho
 
 The easiest way (according to many specialists and my own research) is to start with the font classifications. Simply try to determine the fonts that you like.
 
- 
-
 We can distinguish some main classifications:
 
 Serif Type Style-usually better for printed publications, magazines, books.
 
 Some well-known fonts: Didone, Old Style, Times New Roman
 
-![](../uploads/picture-1.jpg)
-
- 
+![](../uploads/zara-logо.jpg)
 
 Sans Serif type Style-work best for the digital versions of the text, such as the social media posts, articles, blogs, etc.
 
 Some well-known fonts: Square Geometric, Humanistic
 
-![](../uploads/picture-1.gif)
-
- 
-
- 
+![](../uploads/ted-baker-london-logo-2.png)
 
 Script Type Styles-imitate the handwriting
 
 Its main characteristic: imitates cursive writing
 
-![](../uploads/njkjl.jpg)
-
- 
+![](../uploads/other_stories.png.jpeg)
 
 Decorative-every another font that is not a serif font and is somehow decorated
 
-  
-
-![](../uploads/bhwsdiw.jpg)
-
- 
+![](../uploads/images.png)
 
 But what font is the best for a clothing brand?
 
