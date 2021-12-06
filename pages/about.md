@@ -11,14 +11,24 @@ tags: null
 description: null
 show: true
 ---
-Hey! 
+‘Typography in Fashion” is a website highly related to luxurious fashion brands, magazines and fashion shows. It covers all of the possible typographic trends within the area of fashion.
 
-My name is Kasia and I have just started my journey with blogging. I am very interested into fashion-realted content and hope to work within the fashion industry in the future. That's why the content on this blog is highly realted to luxurious fashion brands, magazines and fashion shows. 
+I am on the lookout for examples in the fashion industry and prove that typography is an inseparable element of fashion.
 
-This website is for all of the poeple who enjoy a little fashion knowledge connected with some design theory and facts. As our community is growing very quickly I would love **YOU** to become a part of it as well. Get involved into sharing the new posts, either on your social media or if you want to discuss a topic- text me directly on my email adress. You can find it at the botom of this page.
+## My logo and banner image
 
-As the luxuriousness itself is very often connected with monochromatics colors, no decorative fonts or colorful pictures, I wanted to create a blog that even though talks about all of those topics, it still does not feel so 'official' . It is a safe space with a lot of positive energy that explains the outgoing typographic trends within the fashion area and you can also get engaged.
+I decided to use a photo from a fashion show as a banner to my website. The photo was taken by Michael Lee on one of the fashion shows.
 
-All of the high-fashion-realted topics are being explored. Starting from logos of the luxurious brands and ending on controversial fashion shows. There is no space for tabu. 
+It is made of darker colours, such as fusion and navy. This gives the idea of luxuriousness and chicness. 
 
-Together we can build an amazing community of people. Enjoy your stay here and hopefully you are gonna stick with me for a longer time!
+In order to make my logo coherent with the whole website I have decided to use the colour palette from the banner image (therefore from the Michael Lee’s photo) and create something simple, modern and elegant. Here is my logo:
+
+![](../uploads/1.jpg)
+
+And here is my banner image:
+
+![](../uploads/background-ffficisl-wbesite.png)
+
+The name of my site is rather a very self-explanatory. I decided to name it ‘Typography in Fashion’. All of the areas of fashion are included! All of the high-fashion-related topics are being explored. Starting from logos of the luxurious brands and ending on controversial fashion shows. There is no space for tabu.
+
+Enjoy your stay here and hopefully you are going to stick with me for a longer time!
